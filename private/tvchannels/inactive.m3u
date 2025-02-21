@@ -1,0 +1,12 @@
+#EXTINF:-1 tvg-name="Channel 9" tvg-language="Myanmar" tvg-country="Myanmar" tvg-id="channel9.mm" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/channel9-80x80-7b1.jpg" group-title="Myanmar", Channel 9
+https://streammain.myanmartvchannels.com:999/website-channel9-stream/website-channel9-stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjAvMjAyNCAxMjoyMjoxOCBQTSZoYXNoX3ZhbHVlPWpnTVZEVlpabDNYKzhIUnY1NU1GSkE9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9MTAzMjAwMTM0ODg=
+#EXTINF:-1 tvg-name="Fortune TV" tvg-language="Myanmar" tvg-country="Myanmar" tvg-id="fortune.mm" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/fortune-120x120-f49.jpg" group-title="Myanmar", Fortune TV
+https://streammain.myanmartvchannels.com:999/website-fortune-stream/website-fortune-stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjAvMjAyNCAxMjoyNDozNSBQTSZoYXNoX3ZhbHVlPXNncHl1a1gvSk1aRHN5bkR5ekw5Ync9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9MTAzMjAwMTM0ODg=
+#EXTINF:-1 tvg-id="MTVHits.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/512px-MTV_Hits_2021.svg.png" group-title="Music",MTV Hits France (720p)
+http://178.170.47.109/MTVHITS/index.m3u8
+#EXTINF:-1 tvg-id="MTVLoveMusic.de" tvg-logo="https://i.imgur.com/C3YvMwj.png" group-title="Music",MTV Love Music
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61923ac16d03190008138a67/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84addd38-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=156eb840-05c4-4f6d-82d6-1f1d007cc69e
+#EXTINF:-1 tvg-id="ZZTV.rs" tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="Music",Muzzik ZZ TV (720p)
+https://muzzik-live.morescreens.com/mts-a4/playlist.
+#EXTINF:-1 tvg-id="MyxPhilippines.ph" tvg-logo="https://i.imgur.com/pbHuUuV.png" group-title="Music",MYX Philippines (720p)
+https://myxnola-abscbn-ono.amagi.tv/index.m3u8
