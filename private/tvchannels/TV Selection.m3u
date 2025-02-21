@@ -33,10 +33,6 @@ https://5a13fe32ef748.streamlock.net/mmplay/mrtv-entertainment/playlist.m3u8
 https://5a13fe32ef748.streamlock.net/mmplay/hluttaw/playlist.m3u8
 #EXTINF:-1 tvg-name="Myanmar Music" tvg-language="Myanmar" tvg-country="Myanmar" tvg-id="myanmar_music.mm" tvg-logo="" group-title="Myanmar",Myanmar Music
 https://l1-xl1.myanmarnet.com/relay/music/ch1/stream_hi/index.m3u8
-#EXTINF:-1 tvg-name="Channel 9" tvg-language="Myanmar" tvg-country="Myanmar" tvg-id="channel9.mm" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/channel9-80x80-7b1.jpg" group-title="Myanmar", Channel 9
-https://streammain.myanmartvchannels.com:999/website-channel9-stream/website-channel9-stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjAvMjAyNCAxMjoyMjoxOCBQTSZoYXNoX3ZhbHVlPWpnTVZEVlpabDNYKzhIUnY1NU1GSkE9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9MTAzMjAwMTM0ODg=
-#EXTINF:-1 tvg-name="Fortune TV" tvg-language="Myanmar" tvg-country="Myanmar" tvg-id="fortune.mm" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/fortune-120x120-f49.jpg" group-title="Myanmar", Fortune TV
-https://streammain.myanmartvchannels.com:999/website-fortune-stream/website-fortune-stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjAvMjAyNCAxMjoyNDozNSBQTSZoYXNoX3ZhbHVlPXNncHl1a1gvSk1aRHN5bkR5ekw5Ync9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9MTAzMjAwMTM0ODg=
 #EXTINF:-1 tvg-name="DVB" tvg-language="Myanmar" tvg-country="Myanmar" tvg-id="dvb.mm" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/dvb-120x120-58e.jpg" group-title="Myanmar", DVB MM
 https://live-stream.dvb.no/hls/stream.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjAvMjAyNCAxMjoyNzoxNSBQTSZoYXNoX3ZhbHVlPXg3TWZUZEwyaXRwTThSV0NIUmlJL0E9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9MTAzMjAwMTM0ODg=
 #EXTINF:-1 tvg-id="Mahabawdi.mm" tvg-logo="https://raw.githubusercontent.com/yehtutbo/iptvmm/main/mahar_bawdi_tv_mm.png" group-title="Myanmar TV",Mahabawdi
@@ -51,10 +47,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f98471110cca20007d39f76/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae2b53-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=81574af2-8af4-46c8-8d63-00cbea99cbf5
 #EXTINF:-1 tvg-id="MTVClassicEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/MTV_Classic_US.svg/512px-MTV_Classic_US.svg.png" group-title="Music",MTV Classic (360p)
 https://fl5.moveonjoy.com/MTV_CLASSIC/index.m3u8
-#EXTINF:-1 tvg-id="MTVHits.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/512px-MTV_Hits_2021.svg.png" group-title="Music",MTV Hits France (720p)
-http://178.170.47.109/MTVHITS/index.m3u8
-#EXTINF:-1 tvg-id="MTVLoveMusic.de" tvg-logo="https://i.imgur.com/C3YvMwj.png" group-title="Music",MTV Love Music
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61923ac16d03190008138a67/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84addd38-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=156eb840-05c4-4f6d-82d6-1f1d007cc69e
 #EXTINF:-1 tvg-id="MTVLive.uk" tvg-logo="https://i.imgur.com/St5DhAU.png" group-title="Music",MTV Live
 http://190.102.246.93:9005/play/a01p
 #EXTINF:-1 tvg-id="MTVLive.us" tvg-logo="https://i.imgur.com/3UByLqb.png" group-title="Music",MTV Live (720p)
@@ -75,10 +67,6 @@ https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
 https://muzzik-live.morescreens.com/mts-7/playlist.m3u8
 #EXTINF:-1 tvg-id="TIKTAK.rs" tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="Music",Muzzik TIKTAK (720p)
 https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
-#EXTINF:-1 tvg-id="ZZTV.rs" tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="Music",Muzzik ZZ TV (720p)
-https://muzzik-live.morescreens.com/mts-a4/playlist.
-#EXTINF:-1 tvg-id="MyxPhilippines.ph" tvg-logo="https://i.imgur.com/pbHuUuV.png" group-title="Music",MYX Philippines (720p)
-https://myxnola-abscbn-ono.amagi.tv/index.m3u8
 #EXTINF:-1 tvg-id="NagoTV.us" tvg-logo="https://i.imgur.com/cjFVtxK.png" group-title="Entertainment;Music",Nago TV (240p)
 https://lakay.online/public/nagotv/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="NavahangTV.fi" tvg-logo="https://i.imgur.com/YteKXJy.png" group-title="Music",Navahang TV (720p)
